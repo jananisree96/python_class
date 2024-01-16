@@ -1,0 +1,12 @@
+import turtle
+x=turtle.Turtle()
+x.left(50)
+x.back(40)
+x.backward(40)
+x.bk(30)
+x.circle(60)
+x.backward(90)
+x.right(30)
+x.circle(30)
+x.circle(60)
+x.circle(10)

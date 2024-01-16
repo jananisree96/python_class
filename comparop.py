@@ -1,0 +1,10 @@
+#comparision operator:
+print("**comparision operator**")
+x=int(input("Enter x value:"))
+y=int(input("Enter y value:"))
+print("Equal to:",x==y)
+print("Greater than:",x>y)
+print("Less than:",x<y)
+print("Greater than or equal:",x>=y)
+print("Less than or equal:",x<=y)
+print("Not equal:",x!=y)

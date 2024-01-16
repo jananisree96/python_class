@@ -1,0 +1,12 @@
+import turtle
+v=turtle.Turtle()
+v.pendown()
+v.backward(40)
+v.right(90)
+v.forward(40)
+v.left(90)
+v.forward(40)
+v.right(90)
+v.forward(40)
+v.right(90)
+v.forward(40)
