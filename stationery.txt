@@ -1,0 +1,4 @@
+You are selected Note
+Price:50
+Qty:100
+Total:5000
